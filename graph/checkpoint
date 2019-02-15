@@ -1,0 +1,2 @@
+model_checkpoint_path: "G:\\\347\240\224\344\272\214\344\270\212\345\255\246\346\234\237\\paper\\denoise\\coding\\BinNet\\log\\ck.ckpt"
+all_model_checkpoint_paths: "G:\\\347\240\224\344\272\214\344\270\212\345\255\246\346\234\237\\paper\\denoise\\coding\\BinNet\\log\\ck.ckpt"
